@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sameer Garg
 - 👀 Undergraduate @Punjab Engineering College
-- 🌱 Currently pursuing Electronics and Communication Engineering
-- 📫 Looking to collaborate on Web Development Projects
+- 🌱 Pursuing Electronics and Communication Engineering
+- 📫 Looking to collaborate on Web Dev Projects
 
 <!---
 samm-01/samm-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
